@@ -1,0 +1,19 @@
+{
+    "name": "a03",
+    "version": "0.0.1",
+    "description": "resume app",
+    "main": "app.js",
+    "dependencies": {
+        "express": "latest",
+        "morgan": "latest",
+        "body-parser": "latest",
+        "ejs": "latest"
+    },
+    "author": "Sampath",
+    "homepage": "https://bitbucket.org/Sampath2609/a03",
+    "repository": {
+        "type": "git",
+        "url": "https://bitbucket.org/Sampath2609/a03"
+    },
+    "license": "Apache-2.0"
+}
