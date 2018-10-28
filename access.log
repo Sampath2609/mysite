@@ -47,3 +47,4 @@
 ::1 - - [28/Oct/2018:21:03:59 +0000] "GET /contact HTTP/1.1" 200 1815 "http://localhost:8081/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36"
 ::1 - - [28/Oct/2018:21:41:45 +0000] "GET / HTTP/1.1" 200 2329 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36"
 ::1 - - [28/Oct/2018:21:41:58 +0000] "GET /contact HTTP/1.1" 200 1800 "http://localhost:8081/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36"
+::1 - - [28/Oct/2018:22:26:04 +0000] "GET /bmi HTTP/1.1" 200 3970 "http://localhost:8081/contact" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36"
