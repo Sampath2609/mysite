@@ -1,6 +1,6 @@
 # your repo name
 
-A resume site using Node, Express, BootStrap, EJS
+A bmi calculator site using Node, Express, BootStrap, EJS
 
 ## How to use
 
