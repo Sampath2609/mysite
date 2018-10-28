@@ -46,7 +46,7 @@ app.get("/contact", function (req, res) {
 
 
 // 5 handle valid POST request
-app.post("/contact-me", function (req, res) {
+app.post("/contact", function (req, res) {
   var api_key = 'db4a58a0b72ba88d9ae7b56aafecb521-4836d8f5-786b1421';
   var domain = 'sandbox73b0fa2a938e4521890289988775f51d.mailgun.org';
   var mailgun = require('mailgun-js')({apiKey: api_key, domain: domain});
